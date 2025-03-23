@@ -1,7 +1,10 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="" tvg-name="USL- A&E HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- A&E HD
-http://maxtrend.zip:80/242504219/a283047a/285536
-#EXTINF:-1 tvg-id="" tvg-name="USL- FOX NEWS  ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX NEWS  ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285545
+#EXTINF:-1 tvg-id="" tvg-name="EVENTS 01:" tvg-logo="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="PPV",EVENTS 01:
+http://ursaiptv.xyz:8080/Flower0326/Dec1221/989895
+#EXTINF:-1 tvg-id="" tvg-name="EVENTS 02:" tvg-logo="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="PPV",EVENTS 02:
+http://ursaiptv.xyz:8080/Flower0326/Dec1221/989896
+#EXTINF:-1 tvg-id="" tvg-name="EVENTS 03:" tvg-logo="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="PPV",EVENTS 03:
+http://ursaiptv.xyz:8080/Flower0326/Dec1221/989897
+#EXTINF:-1 tvg-id="" tvg-name="EVENTS 04:" tvg-logo="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="PPV",EVENTS 04:
+http://ursaiptv.xyz:8080/Flower0326/Dec1221/989898
