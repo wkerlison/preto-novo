@@ -1,34 +1,291 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="USL- A&E HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- A&E HD
-http://maxtrend.zip:80/242504219/a283047a/285536
-#EXTINF:-1 tvg-id="" tvg-name="USL- FOX NEWS  ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FOX NEWS  ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285545
-#EXTINF:-1 tvg-id="" tvg-name="USL- FXX HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- FXX HD
-http://maxtrend.zip:80/242504219/a283047a/285546
-#EXTINF:-1 tvg-id="" tvg-name="USL- HALLMARK DRAMA ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- HALLMARK DRAMA ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285547
-#EXTINF:-1 tvg-id="" tvg-name="USL- HALLMARK CHANNEL ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- HALLMARK CHANNEL ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285712
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="USL- Hallmark Drama | HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- Hallmark Drama | HD
-http://maxtrend.zip:80/242504219/a283047a/285713
-#EXTINF:-1 tvg-id="" tvg-name="USL- HALLMARK MOVIES & MYSTERIES ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- HALLMARK MOVIES & MYSTERIES ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285715
-#EXTINF:-1 tvg-id="" tvg-name="USL- NBA TV HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- NBA TV HD
-http://maxtrend.zip:80/242504219/a283047a/285847
-#EXTINF:-1 tvg-id="" tvg-name="	USL- NICK MUSIC ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",	USL- NICK MUSIC ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285554
-#EXTINF:-1 tvg-id="" tvg-name="USL-TV LAND HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL-TV LAND HD
-http://maxtrend.zip:80/242504219/a283047a/285559
-#EXTINF:-1 tvg-id="" tvg-name="	USL- USA NETWORK ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",	USL- USA NETWORK ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285846
-#EXTINF:-1 tvg-id="" tvg-name="USL-  DISCOVERY CHANNEL HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL-  DISCOVERY CHANNEL HD
-http://maxtrend.zip:80/242504219/a283047a/285845
-#EXTINF:-1 tvg-id="" tvg-name="USL-  LIFETIME HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL-  LIFETIME HD
-http://maxtrend.zip:80/242504219/a283047a/285560
-#EXTINF:-1 tvg-id="" tvg-name="USL-  OUTDOOR ᴴᴰ" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL-  OUTDOOR ᴴᴰ
-http://maxtrend.zip:80/242504219/a283047a/285561
-#EXTINF:-1 tvg-id="" tvg-name="USL- ABC" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC
-http://maxtrend.zip:80/242504219/a283047a/285563
-#EXTINF:-1 tvg-id="" tvg-name="USL- ABC  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/EUA.png" group-title="Canais | United States",USL- ABC  HD
-http://maxtrend.zip:80/242504219/a283047a/285537
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",ALADDIN
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/676
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/902
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/903
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/904
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/905
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6 
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/907
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",BEN 10
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/678
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",DRAGON BALL Z
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/687
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="" group-title="ENTRETENIMENTO",FOOD NETWORK 4K
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/104
+#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOID" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",FREAKAZOID
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/692
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",PATO DONALD
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/712
+#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",PEPPA PIG
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/713
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENA SEREIA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",PEQUENA SEREIA 
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/714
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 1" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 1
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/567
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 10" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 10
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/576
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 100" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 100
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/666
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 11" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 11
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/577
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 12" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 12
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/578
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 13" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 13
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/579
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 14" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 14
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/580
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 15" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 15
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/581
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 16" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 16
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/582
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 17" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 17
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/583
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 18" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 18
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/584
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 19" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 19
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/585
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 2" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 2
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/568
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 20" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 20
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/586
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 21" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 21
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/587
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 22" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 22
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/588
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 23" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 23
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/589
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 24" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 24
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/590
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 25" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 25
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/591
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 26" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 26
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/592
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 27" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 27
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/593
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 28" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 28
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/594
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 29" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 29
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/595
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 3" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 3
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/569
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 30" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 30
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/596
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 31" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 31
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/597
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 32" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 32
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/598
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 33" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 33
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/599
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 34" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 34
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/600
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 35" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 35
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/601
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 36" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 36
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/602
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 37" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 37
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/603
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 38" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 38
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/604
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 39" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 39
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/605
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 4" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 4
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/570
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 40" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 40
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/606
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 41" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 41
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/607
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 42" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 42
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/608
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 43" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 43
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/609
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 44" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 44
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/610
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 45" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 45
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/611
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 46" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 46
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/612
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 47" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 47
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/613
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 48" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 48
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/614
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 49" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 49
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/615
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 5" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 5
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/571
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 50" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 50
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/616
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 51" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 51
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/617
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 52" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 52
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/618
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 53" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 53
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/619
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 54" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 54
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/620
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 55" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 55
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/621
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 56" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 56
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/622
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 57" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 57
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/623
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 58" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 58
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/624
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 59" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 59
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/625
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 6" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 6
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/572
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 60" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 60
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/626
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 61" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 61
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/627
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 62" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 62
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/628
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 63" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 63
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/629
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 64" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 64
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/630
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 65" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 65
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/631
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 66" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 66
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/632
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 67" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 67
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/633
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 68" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 68
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/634
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 69" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 69
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/635
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 7" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 7
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/573
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 70" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 70
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/636
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 71" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 71
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/637
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 72" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 72
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/638
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 73" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 73
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/639
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 74" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 74
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/640
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 75" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 75
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/641
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 76" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 76
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/642
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 77" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 77
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/643
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 78" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 78
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/644
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 79" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 79
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/645
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 8" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 8
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/574
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 80" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 80
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/646
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 81" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 81
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/647
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 82" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 82
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/648
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 83" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 83
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/649
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 84" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 84
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/650
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 85" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 85
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/651
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 86" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 86
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/652
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 87" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 87
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/653
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 88" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 88
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/654
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 89" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 89
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/655
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 9" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 9
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/575
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 90" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 90
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/656
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 91" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 91
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/657
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 92" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 92
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/658
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 93" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 93
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/659
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 94" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 94
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/660
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 95" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 95
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/661
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 96" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 96
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/662
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 97" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 97
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/663
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 98" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 98
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/664
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX 99" tvg-logo="http://185.53.90.49:2095/logos/pornobox.png" group-title="X PORNOBOX",PORNBOX 99
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/665
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="" group-title="NOTICIAS",RECORD NEWS U4K
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/451
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="" group-title="TV ABERTA",REDE BRASIL HD
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/531
+#EXTINF:-1 tvg-id="" tvg-name="SIMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="CINE INFANTIL ",SIMON
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/726
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="TV ABERTA",TV BRASIL 4K
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1100
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 07" tvg-logo="" group-title="CINE PIPOCA",CINE PIPOCA 07
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1043
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Anal" tvg-logo="" group-title="X ADULTO",XXL TV Anal
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/321
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Big Ass" tvg-logo="" group-title="X ADULTO",XXL TV Big Ass
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/322
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Big Dick" tvg-logo="" group-title="X ADULTO",XXL TV Big Dick
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/324
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Big Tits" tvg-logo="" group-title="X ADULTO",XXL TV Big Tits
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/325
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Blonde" tvg-logo="" group-title="X ADULTO",XXL TV Blonde
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/326
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Blowjob" tvg-logo="" group-title="X ADULTO",XXL TV Blowjob
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/328
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Brunette" tvg-logo="" group-title="X ADULTO",XXL TV Brunette
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/330
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Compilation" tvg-logo="" group-title="X ADULTO",XXL TV Compilation
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/331
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Cuckold" tvg-logo="" group-title="X ADULTO",XXL TV Cuckold
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/337
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Fetish" tvg-logo="" group-title="X ADULTO",XXL TV Fetish
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/338
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Gangbang" tvg-logo="" group-title="X ADULTO",XXL TV Gangbang
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/341
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Gay" tvg-logo="" group-title="X ADULTO",XXL TV Gay
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1070
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Hardcore" tvg-logo="" group-title="X ADULTO",XXL TV Hardcore
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1071
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Interracial" tvg-logo="" group-title="X ADULTO",XXL TV Interracial
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1072
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Latina" tvg-logo="" group-title="X ADULTO",XXL TV Latina
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1073
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Lesbian" tvg-logo="" group-title="X ADULTO",XXL TV Lesbian
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1074
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Live Cams" tvg-logo="" group-title="X ADULTO",XXL TV Live Cams
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1075
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV MILF" tvg-logo="" group-title="X ADULTO",XXL TV MILF
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1076
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Pornstar" tvg-logo="" group-title="X ADULTO",XXL TV Pornstar
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1077
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV POV" tvg-logo="" group-title="X ADULTO",XXL TV POV
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1078
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Rough" tvg-logo="" group-title="X ADULTO",XXL TV Rough
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1079
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Russian" tvg-logo="" group-title="X ADULTO",XXL TV Russian
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1080
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Teen" tvg-logo="" group-title="X ADULTO",XXL TV Teen
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1081
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Threesome" tvg-logo="" group-title="X ADULTO",XXL TV Threesome
+http://84.16.253.173:2082/xplus-2-MosNcENRhw/Kvlt0C4c84/1082
+#EXTINF:-1 tvg-id="" tvg-name="movie" tvg-logo="" group-title="demo",movie
+http://84.16.253.173:2082/movie/xplus-2-MosNcENRhw/Kvlt0C4c84/1083.mp4
