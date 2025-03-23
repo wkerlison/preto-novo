@@ -1,5 +1,5 @@
-
 #EXTM3U
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
 http://equipe.click:80/739661655/878549381/284576
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://beststorage4you.com:80/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
