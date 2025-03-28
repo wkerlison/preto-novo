@@ -94,6 +94,13 @@ http://cdnrobot.info:2052/md387a/abc123ad/130
 http://cdnrobot.info:2052/md387a/abc123ad/129
 #EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="http://cdnrobot.info:2052/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="Canais :: ESPORTES",Band Sports HD
 http://cdnrobot.info:2052/md387a/abc123ad/221
+#EXTINF:-1 tvg-id="" tvg-name="MAX⁶" tvg-logo="" group-title="ESPORTES",MAX⁶
+http://hxznew.xyz:80/live/7201884963/49475897/778718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX⁷" tvg-logo="" group-title="ESPORTES",MAX⁷
+http://hxznew.xyz:80/live/7201884963/49475897/778717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX⁸" tvg-logo="" group-title="ESPORTES",MAX⁸
+http://hxznew.xyz:80/live/7201884963/49475897/778716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX⁹" tvg-logo="" group-title="ESPORTES",MAX⁹
 #EXTINF:-1 tvg-id="Band Sports SD" tvg-name="Band Sports SD" tvg-logo="http://painelsbo.painel.life/logosiptv/esportes/bandsports.png" group-title="Canais :: ESPORTES",Band Sports SD
 http://cdnrobot.info:2052/md387a/abc123ad/220
 #EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Batman do Futuro" tvg-logo="http://painelsbo.painel.life/logosiptv/desenhos24/batmanfuturo.png" group-title="24H ::: INFANTIL",Batman do Futuro
@@ -320,6 +327,8 @@ http://cdnrobot.info:2052/md387a/abc123ad/1479
 http://cdnrobot.info:2052/md387a/abc123ad/157223
 #EXTINF:-1 tvg-id="" tvg-name="Diarios de um Vampiro 2009" tvg-logo="http://ipstream1.dyndns.biz:80/images/i-4WkDVS0B-LVrWQVBRE1y3UauKAQnOU0ad8HLgbgIQIJIJyKjgU8WTBO3aSyVkK.png" group-title="24H ::: SÉRIES",Diarios de um Vampiro 2009
 http://cdnrobot.info:2052/md387a/abc123ad/157007
+#EXTINF:-1 tvg-id="" tvg-name="Diarios de um Vampiro 2009" tvg-logo="http://ipstream1.dyndns.biz:80/images/i-4WkDVS0B-LVrWQVBRE1y3UauKAQnOU0ad8HLgbgIQIJIJyKjgU8WTBO3aSyVkK.png" group-title="24H ::: SÉRIES",sai de baixo
+http://hxznew.xyz:80/live/7201884963/49475897/759517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Charlie Brown Jr" tvg-logo="http://ipstream1.dyndns.biz:80/images/i-4WkDVS0B-LVrWQVBRE14Phhl4iiV8zPqMHhsn7y3c3GxqW1MODWYiLGEv1uxl2.jpg" group-title="Canais :: Discografia",Discografia - Charlie Brown Jr
 http://cdnrobot.info:2052/md387a/abc123ad/157275
 #EXTINF:-1 tvg-id="" tvg-name="Discografia - Exaltasamba" tvg-logo="http://dns.maxptv.net:2052/images/0f6b2ee74fe314f63dd3d7e17eb65e57.png" group-title="Canais :: Discografia",Discografia - Exaltasamba
