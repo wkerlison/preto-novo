@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 1 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/espn.png" group-title="Canais | Brasil",ESPN 1 HD
-http://kplay.red/live/39275939/02859274/967440.m3u
+
+#EXTINF:-1 xui-id="1" tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://meusrv.top:80/images/22d273a709c8e942748feb1ea55f2f6f.jpg" group-title="Canais | Filmes & Séries",A&E FHD
+http://meusrv.top:80/play/6hJO3A905dl9K30sCTFK0yH2jUeUGKnA_Q9cJ8iyr6k/ts
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
 http://churryscku.store:80/amcp220199/102031amcd/62169
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
